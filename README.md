@@ -42,5 +42,8 @@
 </div>
 
 ### 🐍 &nbsp;My little snake
-![snake gif](https://github.com/MapaRuiz/MapaRuiz/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/MapaRuiz/MapaRuiz/blob/output/github-snake-dark.svg" width="1000" height="200">
+</p>
+
 
