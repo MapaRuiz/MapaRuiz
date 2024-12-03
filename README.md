@@ -14,7 +14,7 @@
     </td>
     <td>
       <a href="https://github.com/MapaRuiz">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MapaRuiz&layout=compact&langs_count=8&theme=midnight-purple"/>
+        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MapaRuiz&layout=compact&langs_count=8&theme=shades-of-purple"/>
       </a>
     </td>
   </tr>
@@ -22,13 +22,25 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+<div align="center">
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">&nbsp;
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">&nbsp;
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">&nbsp;
+  <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F">&nbsp;
+  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37">&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1">&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">&nbsp;
+  <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255">&nbsp;
+  <img src="https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion&logoColor=FFFFFF">&nbsp;
+  <img src="https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=00C4CC">&nbsp;
+</div>
+
+### 🐍 &nbsp;My little snake
+
+
