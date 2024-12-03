@@ -14,7 +14,7 @@
     </td>
     <td>
       <a href="https://github.com/MapaRuiz">
-        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MapaRuiz&layout=compact&langs_count=8&theme=shades-of-purple"/>
+        <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MapaRuiz&layout=compact&langs_count=8&theme=shades-of-purple"/>
       </a>
     </td>
   </tr>
