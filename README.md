@@ -68,7 +68,7 @@
 
 ### 🐍 &nbsp;My little snake
 <p align="center">
-  <img src="https://github.com/MapaRuiz/MapaRuiz/blob/output/github-snake-dark.svg" width="1000" height="200">
+  <img src="https://github.com/MapaRuiz/MapaRuiz/blob/output/github-snake.svg" width="1000" height="200">
 </p>
 
 
