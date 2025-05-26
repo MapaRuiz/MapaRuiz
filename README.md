@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=androidstudio">&nbsp;
   <img src="https://img.shields.io/badge/-Cursor%20IDE%2FAI-05122A?style=flat&logoUrl=https://docs.cursor.com/favicon-32x32.png" alt="Cursor IDE/AI" />
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF6C37">&nbsp;
+  <img src="https://img.shields.io/badge/-Flexsim-05122A?style=flat&logo=flexsim&logoColor=FF6C37">&nbsp;
   <!-- <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">&nbsp; -->
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">&nbsp;
   <img src="https://img.shields.io/badge/-Readdy%20AI-05122A?style=flat&logoUrl=https://readdy.site/assets/logo.svg" alt="Readdy AI" />
